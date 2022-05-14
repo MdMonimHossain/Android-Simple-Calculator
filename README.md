@@ -1,6 +1,6 @@
 # Calculator-Android
 
-## It's a simple calculator made for Android
+## It's a simple calculator for Android OS
 
 ### Programming Language: Java
 ### Software Tool: Android Studio
