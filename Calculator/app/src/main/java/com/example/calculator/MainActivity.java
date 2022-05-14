@@ -200,6 +200,9 @@ public class MainActivity extends AppCompatActivity {
         if(result.equals("NaN")){
             result = "Bad Expression";
         }
+        if(result.charAt(result.length() - 1) == '0' && result.charAt(result.length() - 2) == '.'){
+            result = result.substring(0, result.length() - 2);
+        }
 
         display2.setText(userExp);
         display1.setText(result);
