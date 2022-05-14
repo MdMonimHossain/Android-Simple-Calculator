@@ -12,3 +12,4 @@
 
 ### Screenshots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=15fH-jnrAF-EqSh_xf5fqwAqMFPajDczW)
+![screenshot2](https://drive.google.com/uc?export=view&id=15fH-jnrAF-EqSh_xf5fqwAqMFPajDczW)
