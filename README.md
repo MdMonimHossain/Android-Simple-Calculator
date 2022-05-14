@@ -11,5 +11,5 @@
 [Download Link (APK)](https://drive.google.com/file/d/1I8KwOn3-nAwIvJ-2G3LXRdWMibglqX_u/view?usp=sharing)
 
 ### Screenshots:
-![screenshot1](https://drive.google.com/uc?export=view&id=13Nr5yTyJH1ZSHLH3hqSsRaLiMLJwW9DO)
-![screenshot2](https://drive.google.com/uc?export=view&id=13PbnLZR1WFhqfxlW7NVGJSvcPWdTxT1-)
+![screenshot1](https://drive.google.com/uc?export=view&id=1_sdn7j5BuVh6nVDivQHHWibIT3oOr7yn)
+![screenshot2](https://drive.google.com/uc?export=view&id=1gu3j6Rm-s_VFfq7Ej_Op1xMOr0jjFcFj)
